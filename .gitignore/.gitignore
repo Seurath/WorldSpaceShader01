@@ -35,3 +35,6 @@ sysinfo.txt
 
 # Mac
 *.DS_Store
+
+# Project
+/Assets/AmplifyShaderEditor/
